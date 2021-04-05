@@ -1,0 +1,4 @@
+wow. we can write into files directly from a py program!
+don't forget though, python can only read and write strings.
+if we want to store numerical data, convert it to a string first via str()
+Not everything has to be destroyed with append mode.

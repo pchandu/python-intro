@@ -1,0 +1,8 @@
+* Writing this file to test file reading with python *
+
+So far I learned the following things in Python:
+* Proper styling
+* Writing Object Oriented programs 
+* Working with strings, lists, and numbers
+* For loops and while loops
+* Syntax
